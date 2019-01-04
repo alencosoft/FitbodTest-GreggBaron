@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>colorPrimary
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorActionBarText">#C2554A</color>
+    <color name="colorBodyBackground">#23282A</color>
+    <color name="colorListDivider">#393939</color>
+    <color name="colorPrimary">#E2E2E2</color>
+    <color name="colorPrimaryDark">#C2554A</color>
+    <color name="colorSecondary">#999999</color>
+    <color name="colorToolbarBackground">#F26A5D</color>
+</resources>

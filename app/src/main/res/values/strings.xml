@@ -1,0 +1,9 @@
+<resources>
+    <string name="action_none"> </string>
+    <string name="app_name">MyFitbodTestApp</string>
+    <string name="csv_filename">workoutData.txt</string>
+    <string name="lbs_literal">lbs</string>
+    <string name="plural">s</string>
+    <string name="rm_record">RM Record</string>
+    <string name="title_activity_chart">ChartActivity</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="graph_circle_radius">5dp</dimen>
+    <dimen name="line_stroke_width">2dp</dimen>
+    <dimen name="list_large_text">20sp</dimen>
+    <dimen name="list_padding_and_margins">16dp</dimen>
+    <dimen name="list_small_text">16sp</dimen>
+    <dimen name="listview_divider_line">1dp</dimen>
+    <dimen name="toolbar_title_size">20sp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+Oct 11 2017,Back Squat,1,10
+Oct 11 2017,Back Squat,1,10,135
+Oct 11 2017,Back Squat,1,3,185
+Oct 11 2017,Back Squat,1,6,245
+Oct 11 2017,Back Squat,1,6,245
+Oct 11 2017,Back Squat,1,6,245
+Oct 11 2017,Back Squat,1,6,245
